@@ -25,9 +25,13 @@ To run this project, you'll need the following libraries and tools installed:
 2. Libraries:
    
    pandas: For data manipulation and analysis.
+   
    numpy: For numerical computations.
+   
    matplotlib: For creating visualizations like scatter plots and graphs.
+   
    sklearn: For building the linear regression model and evaluating it using various metrics.
+   
 
 ### To install
 pip install pandas numpy matplotlib scikit-learn
